@@ -4,8 +4,8 @@ import cv2
 
 
 # Define variables
-image_path = "/home/adham/Desktop/SEVEN/cfg/real data/png/SPECIMEN7-1.png"  # Replace with your image path
-model_path = "/home/adham/Desktop/SEVEN/cfg/testing new model format/best_saved_model"  # Replace with your model path
+image_path = ""  # Replace with your image path
+model_path = ""  # Replace with your model path
 img_size = 640
 iou_threshold = 0.3
 score_threshold = 0.4
